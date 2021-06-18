@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583530382669",
+    "project_id": "tafukada-de671",
+    "storage_bucket": "tafukada-de671.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583530382669:android:c917877a403998050a2304",
+        "android_client_info": {
+          "package_name": "com.example.tafukada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583530382669-bao2jsof61jhl4vbqqh3n4dpvohj8vin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVpu0guCb5aKTlbU7t4-Z60LxVmpomMZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583530382669-bao2jsof61jhl4vbqqh3n4dpvohj8vin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
